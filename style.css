@@ -89,3 +89,8 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.images{
+  width: 33%;
+  padding: 10px;
+}
